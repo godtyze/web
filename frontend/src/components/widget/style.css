@@ -1,0 +1,17 @@
+.widget {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-width: 150px;
+    min-height: 150px;
+    border-radius: 20px;
+}
+
+.widget-default {
+    background-color: #90d71b;
+}
+
+.widget-red {
+    background-color: #be3636;
+}

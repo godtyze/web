@@ -1,0 +1,5 @@
+.table-scrollable {
+    width: 800px;
+    height: 650px;
+    overflow: auto;
+}
